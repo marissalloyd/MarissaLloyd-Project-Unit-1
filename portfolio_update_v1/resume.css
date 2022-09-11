@@ -4,7 +4,7 @@
   }
 
   body {
-    margin: 0;
+    margin: 15px;
     padding: 0;
     text-align: left;
     font-family: 'Roboto', sans-serif;
@@ -13,10 +13,11 @@
   }
 
   .intro {
-    width:100%
-    background:#black
-    min-height:10px
-    padding:0
-    position:left center
-    text-align: left
+    background-image: url ("profile picture.jpg");
   }
+
+
+  
+
+
+
