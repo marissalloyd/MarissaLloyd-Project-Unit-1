@@ -94,12 +94,12 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: center;
   background: #dcd0ff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 20px solid #dcd0ff;
   border-radius: 60px;
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #B593FA;
 }
 
 ul.skills {
