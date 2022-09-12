@@ -8,14 +8,14 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  color: #black;
+  color: #000000;
   background: #FEC5E5;
 }
 /* Link Styles */
 
 a {
   text-decoration: none;
-  color: 9f85ee(8, 2, 2);
+  color: #9f85ee;
 }
 a:hover {
   color: #9f85ee;
