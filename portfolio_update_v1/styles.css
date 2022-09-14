@@ -203,5 +203,13 @@ a.social:hover {
     margin: 40px auto;
   }
 
+  footer img {
+    text-align: center;
+    background: url('images/palm-tree.jpeg') no-repeat top center ;
+    background-size: cover;
+    overflow: hidden;
+    padding-top: 60px;
+  }
+
 }
 
