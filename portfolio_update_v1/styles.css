@@ -36,14 +36,14 @@ a:hover {
   justify-content: space-around;
   font-weight: 700;
   list-style-type: none;
-  margin: 0 auto;
+  margin: 0 center;
   padding: 0;
 }
 
 .nav .name {
-    display: block;
-    margin-right: auto;
-    color: white;
+    display: flex;
+    margin-right: center;
+    color: #402590;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -201,14 +201,6 @@ a.social:hover {
     font-size: 1.3em;
     max-width: 1200px;
     margin: 40px auto;
-  }
-
-  footer img {
-    text-align: center;
-    background: url('images/palm-tree.jpeg') no-repeat top center ;
-    background-size: cover;
-    overflow: hidden;
-    padding-top: 60px;
   }
 
 }
