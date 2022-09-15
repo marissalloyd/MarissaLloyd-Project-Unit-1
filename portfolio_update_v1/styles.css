@@ -36,13 +36,13 @@ a:hover {
   justify-content: space-around;
   font-weight: 700;
   list-style-type: none;
-  margin: 0 center;
+  margin: 0;
   padding: 0;
 }
 
 .nav .name {
     display: flex;
-    margin-right: center;
+    margin-right: 0;
     color: #402590;
 }
 .nav li {
